@@ -1,1 +1,2 @@
 HMBranch2
+Added another line in HMBranch2
